@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vivekshirsath.github.io/csb-yp5cvl/static/css/main.425c5854.chunk.css",
+    "main.js": "https://vivekshirsath.github.io/csb-yp5cvl/static/js/main.3e924bd4.chunk.js",
+    "main.js.map": "https://vivekshirsath.github.io/csb-yp5cvl/static/js/main.3e924bd4.chunk.js.map",
+    "runtime-main.js": "https://vivekshirsath.github.io/csb-yp5cvl/static/js/runtime-main.d04cdd17.js",
+    "runtime-main.js.map": "https://vivekshirsath.github.io/csb-yp5cvl/static/js/runtime-main.d04cdd17.js.map",
+    "static/js/2.ac845c30.chunk.js": "https://vivekshirsath.github.io/csb-yp5cvl/static/js/2.ac845c30.chunk.js",
+    "static/js/2.ac845c30.chunk.js.map": "https://vivekshirsath.github.io/csb-yp5cvl/static/js/2.ac845c30.chunk.js.map",
+    "index.html": "https://vivekshirsath.github.io/csb-yp5cvl/index.html",
+    "static/css/main.425c5854.chunk.css.map": "https://vivekshirsath.github.io/csb-yp5cvl/static/css/main.425c5854.chunk.css.map",
+    "static/js/2.ac845c30.chunk.js.LICENSE.txt": "https://vivekshirsath.github.io/csb-yp5cvl/static/js/2.ac845c30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d04cdd17.js",
+    "static/js/2.ac845c30.chunk.js",
+    "static/css/main.425c5854.chunk.css",
+    "static/js/main.3e924bd4.chunk.js"
+  ]
+}
